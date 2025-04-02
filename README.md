@@ -1,4 +1,4 @@
 # Accuknox-Task
-- [wisecow-app](https://github.com/sanjeev-saravanan/wisecow-app)
-- [Scripts](https://github.com/sanjeev-saravanan/Scripts)
+- Task-1 [wisecow-app](https://github.com/sanjeev-saravanan/wisecow-app)
+- Task-2 [Scripts](https://github.com/sanjeev-saravanan/Scripts)
 
